@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+}
+p{
+    color:aqua;
+    font-size: small;
+}
+.class-selector{
+    color:blanchedalmond;
+    font-size:medium;
+}
+#id-selector{
+    color:blueviolet;
+    font-size: larger;
+}
+h1, h4{
+    color:rgb(204, 133, 133);
+    font-size: large;
+}
